@@ -1,0 +1,3 @@
+[submodule "submodules/DeepLabCut"]
+	path = submodules/DeepLabCut
+	url = https://github.com/DeepLabCut/DeepLabCut.git
